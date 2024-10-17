@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @riX-with-a-TSCH
 - 👀 I’m interested in Bouldering, Coding, Studying, Reading, taking life one step at a time
 - 🌱 I’m currently learning Data Science and Biology
-- 💞️ I’m looking to collaborate on homework and stuff
 
 <!---
 riX-with-a-TSCH/riX-with-a-TSCH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
